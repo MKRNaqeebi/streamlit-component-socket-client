@@ -1,0 +1,3 @@
+recursive-include src/streamlit_component_socket_client/frontend *
+include README.md
+include LICENSE
